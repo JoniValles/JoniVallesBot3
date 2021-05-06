@@ -19,7 +19,7 @@ enum34==1.1.6
 Flask==0.11.1
 Flask-CacheBust==1.0.0
 Flask-Compress==1.3.0
-Flask-Cors==2.1.2
+Flask-Cors==3.0.9
 future==0.16.0
 futures==3.2.0
 geopy==1.11.0
